@@ -1,0 +1,10 @@
+* {
+  background-color: rgb(0, 0, 0);
+  color: red;
+}
+#false {
+  padding: 0px 0px 0px 350px;
+}
+.true {
+  padding: 0px 0px 0px 120px;
+}
